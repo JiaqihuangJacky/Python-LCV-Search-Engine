@@ -56,14 +56,14 @@ Navicat
  Django-admin --version 1.11.3<br />
  
  #usage
- ## run elasticsearch.bat
- ## run kibana.bat
- ## run C:\Program Files\Redis\redis-server.exe
- go to /elasticsearchhead, then run
- ## npm run start 
- Then open pycharm, run
- lcvsearch
- open
- http://127.0.0.1:9200/ //kibana
- http://127.0.0.1:9100/  //head
-Starting development server at http://127.0.0.1:8000/
+ ## run elasticsearch.bat <br />
+ ## run kibana.bat <br />
+ ## run C:\Program Files\Redis\redis-server.exe <br />
+ go to /elasticsearchhead, then run <br />
+ ## npm run start  <br />
+ Then open pycharm, run <br />
+ lcvsearch <br />
+ open<br />
+ http://127.0.0.1:9200/ //kibana <br />
+ http://127.0.0.1:9100/  //head <br />
+Starting development server at http://127.0.0.1:8000/ <br />
