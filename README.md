@@ -1,5 +1,4 @@
 ﻿# Data Search Engine
-Apr 2017 – Apr 2017<br />
 Project description:<br />
 •	Provided a tag rendering a Custom Search Engine input field and a view displaying search results.<br />
 •	Web-crawling from well-known website of real data in python.<br />
