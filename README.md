@@ -50,3 +50,16 @@ Navicat
  https://github.com/mobz/elasticsearch-head <br />
  IDE: PyCharm<br />
  Django-admin --version 1.11.3<br />
+ 
+ #usage
+ ## run elasticsearch.bat
+ ## run kibana.bat
+ ## run C:\Program Files\Redis\redis-server.exe
+ go to /elasticsearchhead, then run
+ ## npm run start 
+ Then open pycharm, run
+ lcvsearch
+ open
+ http://127.0.0.1:9200/ //kibana
+ http://127.0.0.1:9100/  //head
+Starting development server at http://127.0.0.1:8000/
