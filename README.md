@@ -38,8 +38,8 @@ Project description:<br />
  http://www.jobbole.com/ <br />
  https://www.lagou.com/ <br />
  
- ## DataBase:
- Navicate
+ ## GUI | DB Admin Tool for MySQL, MariaDB, SQL Server:
+Navicat 
  
  ## Requirements
  Python Version:3.50 <br />
