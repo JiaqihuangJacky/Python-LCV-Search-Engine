@@ -7,39 +7,39 @@ Project description:<br />
 •	Processed data into Elasticsearch engine, and used Django framework to build web application. <br />
 
 ﻿# Description:
- This projec is used to elastic search to search a certain prefix, and then display all the
- information we have found. Ex: you type "java, then I will display all the result that contains this
- keywords
+ This projec is used to elastic search to search a certain prefix, and then display all the<br />
+ information we have found. Ex: you type "java, then I will display all the result that contains this<br />
+ keywords.<br />
  
  ## The search engine has:
- Hot search list(The most frequency search)
- Seach history
- The number of results, pages, and times
+ Hot search list(The most frequency search)<br />
+ Seach history<br />
+ The number of results, pages, and times<br />
  The number of total data in the Database
- The information will be restored in the elasticSearch head
- using the syntax of Kibana.
+ The information will be restored in the elasticSearch head <br />
+ using the syntax of Kibana <br />
  
  
  ## Codes Description: 
- /ArticleSpider # This is where we write the python project to extract all the data from website
- /LcvSearch #This is django website to search data according to what you have typed
- /demo #This is the image / demo of my project
- /database #This has the data base (Navicat) in .sql formate
+ /ArticleSpider # This is where we write the python project to extract all the data from website <br />
+ /LcvSearch #This is django website to search data according to what you have typed <br />
+ /demo #This is the image / demo of my project <br />
+ /database #This has the data base (Navicat) in .sql formate <br />
  
  ## The web crawle:
- https://www.zhihu.com
- http://www.jobbole.com/
- https://www.lagou.com/
+ https://www.zhihu.com <br />
+ http://www.jobbole.com/ <br />
+ https://www.lagou.com/ <br />
  
  ## DataBase:
  Navicate
  
  ## Requirements
- Python Version:3.50
- elasticsearch:5.11
- kibana-5.1.2-windows-x86
- Redis 4.0
- elasticsearch-head
- https://github.com/mobz/elasticsearch-head 
- IDE: PyCharm
- Django-admin --version 1.11.3
+ Python Version:3.50 <br />
+ elasticsearch:5.11 <br />
+ kibana-5.1.2-windows-x86 <br />
+ Redis 4.0 <br />
+ elasticsearch-head <br />
+ https://github.com/mobz/elasticsearch-head <br />
+ IDE: PyCharm<br />
+ Django-admin --version 1.11.3<br />
