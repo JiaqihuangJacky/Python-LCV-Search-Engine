@@ -11,7 +11,7 @@ Project description:<br />
  information we have found. Ex: you type "java, then I will display all the result that contains this
  keywords
  
- # The search engine has:
+ ## The search engine has:
  Hot search list(The most frequency search)
  Seach history
  The number of results, pages, and times
@@ -20,24 +20,26 @@ Project description:<br />
  using the syntax of Kibana.
  
  
- # Codes Description: 
+ ## Codes Description: 
  /ArticleSpider # This is where we write the python project to extract all the data from website
  /LcvSearch #This is django website to search data according to what you have typed
  /demo #This is the image / demo of my project
  /database #This has the data base (Navicat) in .sql formate
  
-# The web crawle:
+ ## The web crawle:
  https://www.zhihu.com
  http://www.jobbole.com/
  https://www.lagou.com/
  
- # DataBase:
+ ## DataBase:
  Navicate
  
- # Requirements
+ ## Requirements
  Python Version:3.50
  elasticsearch:5.11
  kibana-5.1.2-windows-x86
  Redis 4.0
  elasticsearch-head
  https://github.com/mobz/elasticsearch-head 
+ IDE: PyCharm
+ Django-admin --version 1.11.3
