@@ -10,12 +10,12 @@ Project description:<br />
  information we have found. Ex: you type "java, then I will display all the result that contains this<br />
  keywords.<br />
  
- ## Screen Shot
- # Suggest view
+ # Screen Shot
+ ## Suggest view
 ![suggest](https://user-images.githubusercontent.com/21152514/30793475-09461b02-a177-11e7-9724-d36498a6b2ba.png)
- # Homes view with hot search and history
+ ## Homes view with hot search and history
 ![home](https://user-images.githubusercontent.com/21152514/30788271-6e78c462-a14e-11e7-8f9d-709766b7966b.png) <br />
- # Search View
+ ## Search View
  ![search](https://user-images.githubusercontent.com/21152514/30788272-6e7945e0-a14e-11e7-8d7c-af719a25c4be.png) <br />
  
  ## The search engine has:
