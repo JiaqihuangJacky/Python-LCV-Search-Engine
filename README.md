@@ -11,7 +11,10 @@ Project description:<br />
  keywords.<br />
  
  #ArticleSpider_
- has all the sources code for getting data from website
+ has all the sources code for getting data from website; </br>
+ It can pass the </br>
+<I’m not a robot’ verification test></br>
+of each website</br>
  
  # Screen Shot
  ## Suggest view
